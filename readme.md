@@ -25,7 +25,7 @@ The system uses PPO to learn optimal valve control strategies for HVAC systems. 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hvac-rl-control.git
+git clone https://github.com/hamza276/hvac-rl-control.git
 cd hvac-rl-control
 
 # Install dependencies
